@@ -8,7 +8,7 @@ Please, feel free to place a pull request whether something is not up-to-date, s
 
 # Exam
 
-Exam Cost: $250
+Exam Cost: TBD
 
 # PCA Curriculum
 
@@ -46,7 +46,7 @@ Exam objectives that outline of the knowledge, skills and abilities that a Prome
 * Understand and Use Alertmanager
 * Alerting basics (when, what, and why)
 
-## Instrumentation and Exporters
+## Instrumentation and Exporters - 16%
 * Client Libraries
 * Instrumentation
 * Exporters
