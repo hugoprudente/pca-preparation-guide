@@ -17,21 +17,33 @@ Exam objectives that outline of the knowledge, skills and abilities that a Prome
 ## PromQL - 28%
 
 * Selecting Data
+  [Basic Query](https://prometheus.io/docs/prometheus/latest/querying/basics/)
 * Rates and Derivates
-* Aggregating over time
-* Aggregating over dimensions
+  [Functions](https://prometheus.io/docs/prometheus/latest/querying/functions/)
+* Aggregating over time and over dimensions
+  [Operators](https://prometheus.io/docs/prometheus/latest/querying/operators/)
 * Binary Operators
+  [Binary Operators](https://prometheus.io/docs/prometheus/latest/querying/operators/#binary-operators)
 * Histograms
+  [Best Practices Histograms and Summaries](https://prometheus.io/docs/practices/histograms/)
 * Timestamp Metrics
+  [Timestamp()](https://prometheus.io/docs/prometheus/latest/querying/functions/#timestamp)
+  [Timestamp Instrumentation](https://prometheus.io/docs/practices/instrumentation/#timestamps-not-time-since)
 
 ## Prometheus Fundamentals - 20%
 
 * System Architecture
+  [Overview](https://prometheus.io/docs/introduction/overview/)
 * Configuration and Scraping
+  [Configuration](https://prometheus.io/docs/prometheus/latest/configuration/configuration/#scrape_config)
 * Understanding Prometheus Limitations
+  [LTS Limitations](https://prometheus.io/docs/introduction/release-cycle/#limitations-of-lts-support)
+  [Storage Limitation](https://prometheus.io/docs/prometheus/latest/storage/#limitations)
 * Data Model and Labels
+  [Data Model](https://prometheus.io/docs/concepts/data_model/)
+  [Best Practices Naming and Labels](https://prometheus.io/docs/practices/naming/)
 * Exposition Format
-
+  [Exposition Format](https://prometheus.io/docs/instrumenting/exposition_formats/#exposition-formats)
 ## Observability Concepts - 18%
 * Metrics
 * Undersatnd logs and events
