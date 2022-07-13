@@ -39,6 +39,7 @@ Exam objectives that outline of the knowledge, skills and abilities that a Prome
 * Timestamp Metrics
 
   [Timestamp()](https://prometheus.io/docs/prometheus/latest/querying/functions/#timestamp)
+  
   [Timestamp Instrumentation](https://prometheus.io/docs/practices/instrumentation/#timestamps-not-time-since)
 
 ## Prometheus Fundamentals - 20%
@@ -54,11 +55,13 @@ Exam objectives that outline of the knowledge, skills and abilities that a Prome
 * Understanding Prometheus Limitations
 
   [LTS Limitations](https://prometheus.io/docs/introduction/release-cycle/#limitations-of-lts-support)
+  
   [Storage Limitation](https://prometheus.io/docs/prometheus/latest/storage/#limitations)
   
 * Data Model and Labels
 
   [Data Model](https://prometheus.io/docs/concepts/data_model/)
+  
   [Best Practices Naming and Labels](https://prometheus.io/docs/practices/naming/)
   
 * Exposition Format
