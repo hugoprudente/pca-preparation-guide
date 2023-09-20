@@ -11,8 +11,7 @@ Please, feel free to place a pull request whether something is not up-to-date, s
 
 # Exam
 
-Exam Cost: $250
-=======
+### Exam Cost: $250
 
 
 # PCA Curriculum
