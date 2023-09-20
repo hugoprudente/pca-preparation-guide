@@ -2,7 +2,8 @@
 
 ![PCA Training Badge](images/Training_Badge_Prometheus_V2-2-300x300.png)
 
-The objectie of this repository is help you for taking the Prometheus Certified Associate (PCA) exam using online resources, especially using resources from Prometheus Official Documentation.
+
+The objective of this repository is help you for taking the Prometheus Certified Associate (PCA) exam using online resources, especially using resources from Prometheus Official Documentation.
 
 The references were selected for the Beta exam, and there are exclusive information for API objects and annotations. For more information, please see CNCF Curriculum.
 
@@ -11,6 +12,7 @@ Please, feel free to place a pull request whether something is not up-to-date, s
 # Exam
 
 Exam Cost: $250
+=======
 
 
 # PCA Curriculum
@@ -104,4 +106,7 @@ The Prometheus Certified Associate (PCA) exam demonstrates an engineers foundati
 # PCA Preparation Courses
 
 * [Descomplicando o Prometheus (Portuguese)](https://www.linuxtips.io/products/descomplicando-o-prometheus)
+* [PromQL Cheat Sheet](https://promlabs.com/promql-cheat-sheet/)
+* [Introduction to Prometheus - free](https://training.promlabs.com/training/introduction-to-prometheus)
+* [Prometheus Up and Running - paid](https://www.oreilly.com/library/view/prometheus-up/9781492034131/)
 
