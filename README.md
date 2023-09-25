@@ -21,12 +21,35 @@ The Prometheus Certified Associate (PCA) exam demonstrates an engineers foundati
 
 ## Observability Concepts - 18%
 * Metrics
+
+  [Metrics Types](https://prometheus.io/docs/concepts/metric_types/)
+  
+  [Jobs and Instances](https://prometheus.io/docs/concepts/jobs_instances/)
+  
 * Undersatnd logs and events
 * Trancing and Spans
 * Push vs Pull
+
+  [Pull vs Push FAQ](https://prometheus.io/docs/introduction/faq/#why-do-you-pull-rather-than-push)
+
+  [Pull doesn't scale - or does it?](https://prometheus.io/blog/2016/07/23/pull-does-not-scale-or-does-it/)
+
+  [Pushgateway](https://prometheus.io/docs/instrumenting/pushing/)
+  
 * Service Discovery
+
+  [Http Service Discovery](https://prometheus.io/docs/prometheus/latest/http_sd/#writing-http-service-discovery)
+  
+  [File based Service Discovery](https://prometheus.io/docs/guides/file-sd/#use-file-based-service-discovery-to-discover-scrape-targets)
+  
 * Basics of SLOs, SLAs, and SLIs
 
+  SLO [SRE Book](https://sre.google/sre-book/service-level-objectives/)
+  
+  SLI [Fundamentals 2021](https://cloud.google.com/blog/products/devops-sre/sre-fundamentals-sli-vs-slo-vs-sla)
+  
+  SLA [Fundamentals 2021](https://cloud.google.com/blog/products/devops-sre/sre-fundamentals-sli-vs-slo-vs-sla)
+  
 
 ## Prometheus Fundamentals - 20%
 
