@@ -44,12 +44,9 @@ The Prometheus Certified Associate (PCA) exam demonstrates an engineers foundati
   
 * Basics of SLOs, SLAs, and SLIs
 
-  SLO [SRE Book](https://sre.google/sre-book/service-level-objectives/)
+  SLO - [SRE Book](https://sre.google/sre-book/service-level-objectives/)
   
-  SLI [Fundamentals 2021](https://cloud.google.com/blog/products/devops-sre/sre-fundamentals-sli-vs-slo-vs-sla)
-  
-  SLA [Fundamentals 2021](https://cloud.google.com/blog/products/devops-sre/sre-fundamentals-sli-vs-slo-vs-sla)
-  
+  SLI & SLA - [Fundamentals 2021](https://cloud.google.com/blog/products/devops-sre/sre-fundamentals-sli-vs-slo-vs-sla)  
 
 ## Prometheus Fundamentals - 20%
 
