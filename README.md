@@ -37,7 +37,9 @@ The Prometheus Certified Associate (PCA) exam demonstrates an engineers foundati
 * Trancing and Spans
 
   [Tracing vs Span by Logit](https://logit.io/blog/post/traces-vs-spans/)
+
   [Prometheus Tracing itself](https://prometheus.io/docs/prometheus/latest/configuration/configuration/#tracing_config)
+
   [A beginners guide to distributed tracing by Grafana](https://grafana.com/blog/2021/01/25/a-beginners-guide-to-distributed-tracing-and-how-it-can-increase-an-applications-performance/)
 
 * Push vs Pull
