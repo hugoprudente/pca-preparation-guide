@@ -21,18 +21,13 @@ The Prometheus Certified Associate (PCA) exam demonstrates an engineers foundati
 
 ## Observability Concepts - 18%
 * Metrics
-
-  [Metrics Types](https://prometheus.io/docs/concepts/metric_types/)
-  
-  [Jobs and Instances](https://prometheus.io/docs/concepts/jobs_instances/)
+  * [Metrics Types](https://prometheus.io/docs/concepts/metric_types/)
+  * [Jobs and Instances](https://prometheus.io/docs/concepts/jobs_instances/)
   
 * Understand logs and events
-
-  [Query Log](https://prometheus.io/docs/guides/query-log/)
-
-  [Logs and Metrics and Graphs, Oh My!](https://grafana.com/blog/2016/01/05/logs-and-metrics-and-graphs-oh-my/)
-
-  [Pull doesn't scale - or does it?](https://prometheus.io/blog/2016/07/23/pull-does-not-scale-or-does-it/#prometheus-is-not-an-event-based-system)
+  * [Query Log](https://prometheus.io/docs/guides/query-log/)
+  * [Logs and Metrics and Graphs, Oh My!](https://grafana.com/blog/2016/01/05/logs-and-metrics-and-graphs-oh-my/)
+  * [Pull doesn't scale - or does it?](https://prometheus.io/blog/2016/07/23/pull-does-not-scale-or-does-it/#prometheus-is-not-an-event-based-system)
   
 * Trancing and Spans
 
