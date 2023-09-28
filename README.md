@@ -26,8 +26,20 @@ The Prometheus Certified Associate (PCA) exam demonstrates an engineers foundati
   
   [Jobs and Instances](https://prometheus.io/docs/concepts/jobs_instances/)
   
-* Undersatnd logs and events
+* Understand logs and events
+
+  [Query Log](https://prometheus.io/docs/guides/query-log/)
+
+  [Logs and Metrics and Graphs, Oh My!](https://grafana.com/blog/2016/01/05/logs-and-metrics-and-graphs-oh-my/)
+
+  [Pull doesn't scale - or does it?](https://prometheus.io/blog/2016/07/23/pull-does-not-scale-or-does-it/#prometheus-is-not-an-event-based-system)
+  
 * Trancing and Spans
+
+  [Tracing vs Span by Logit](https://logit.io/blog/post/traces-vs-spans/)
+  [Prometheus Tracing itself](https://prometheus.io/docs/prometheus/latest/configuration/configuration/#tracing_config)
+  [A beginners guide to distributed tracing by Grafana](https://grafana.com/blog/2021/01/25/a-beginners-guide-to-distributed-tracing-and-how-it-can-increase-an-applications-performance/)
+
 * Push vs Pull
 
   [Pull vs Push FAQ](https://prometheus.io/docs/introduction/faq/#why-do-you-pull-rather-than-push)
